@@ -1,0 +1,11 @@
+c:\users\tkoerner\documents\visual studio 2017\Projects\Test app\Test app\bin\Debug\Test app.exe.config
+c:\users\tkoerner\documents\visual studio 2017\Projects\Test app\Test app\bin\Debug\Test app.exe
+c:\users\tkoerner\documents\visual studio 2017\Projects\Test app\Test app\bin\Debug\Test app.pdb
+c:\users\tkoerner\documents\visual studio 2017\Projects\Test app\Test app\bin\Debug\Test app.xml
+c:\users\tkoerner\documents\visual studio 2017\Projects\Test app\Test app\obj\Debug\Test app.vbprojResolveAssemblyReference.cache
+c:\users\tkoerner\documents\visual studio 2017\Projects\Test app\Test app\obj\Debug\Test_app.Resources.resources
+c:\users\tkoerner\documents\visual studio 2017\Projects\Test app\Test app\obj\Debug\Test app.vbproj.GenerateResource.Cache
+c:\users\tkoerner\documents\visual studio 2017\Projects\Test app\Test app\obj\Debug\Test app.exe
+c:\users\tkoerner\documents\visual studio 2017\Projects\Test app\Test app\obj\Debug\Test app.xml
+c:\users\tkoerner\documents\visual studio 2017\Projects\Test app\Test app\obj\Debug\Test app.pdb
+c:\users\tkoerner\documents\visual studio 2017\Projects\Test app\Test app\obj\Debug\Test_app.Form1.resources
