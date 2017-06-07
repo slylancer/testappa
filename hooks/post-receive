@@ -1,0 +1,13 @@
+#!/bin/sh
+
+# Remember to point this to the correct url and port number! 
+JenkinsUrl="http://172.22.1.149:8080"
+
+#watch spaces in Jenkins Project Names, they will need to be url encoded to %20
+ProjectName="testapp"
+
+echo ""
+echo "Triggering Build on Jenkins server $JenkinsUrl"
+echo ""
+
+curl "$JenkinsUrl/job/$ProjectName/build"
