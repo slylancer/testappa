@@ -11,5 +11,3 @@ echo "Triggering Build on Jenkins server $JenkinsUrl"
 echo ""
 
 curl "$JenkinsUrl/job/$ProjectName/build"
-
-#test
